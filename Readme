@@ -1,0 +1,4 @@
+to tackle the error of installing pyaudio in macOs
+Commands are:
+brew install portaudio
+pip install pyaudio
